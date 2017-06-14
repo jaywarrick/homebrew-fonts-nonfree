@@ -29,7 +29,7 @@ First, you'll have to have [Homebrew](http://brew.sh) installed.
 
 Then install [Caskroom](http://caskroom.io).
 
-    brew install caskroom/cask/brew-cask
+    brew tap caskroom/cask
 
 Then tap this repository.
 
